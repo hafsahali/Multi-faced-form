@@ -1,7 +1,14 @@
 const personalInfo    = document.getElementById("personalInfo")
 const educationalInfo = document.getElementById("educationalInfo")
 const healthInfo      = document.getElementById("healthInfo")
- function nextbtn1(){
+
+const lNa
+const lName=document.querySelector("#email")
+
+
+
+
+function nextbtn1(){
      personalInfo.style.display="none"
      educationalInfo.style.display="flex"
      healthInfo.style.display="none"
